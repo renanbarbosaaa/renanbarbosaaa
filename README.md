@@ -2,6 +2,7 @@
 <h3 align="center">Estudante de Desenvolvimento de Sistemas.</h3>
 
 -  Atualmente trabalho com SAAS low-code: **Atendimento com IA para mecânicos**
+-  Conhecimento em: Python, JS, HTML5, CSS, MySQL e Firebase
 -  Masterclass de: Des. Mobile, N8N e Python
 -  Email: **renanbarbosasilvaa@gmail.com**
 
