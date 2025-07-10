@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Renan Barbosa!</h1>
+<h1 align="center">Olá! Eu sou o Renan Barbosa.</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas.</h3>
 
 -  Atualmente trabalho com SAAS low-code: **Atendimento com IA para mecânicos**
