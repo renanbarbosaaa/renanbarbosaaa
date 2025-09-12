@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Renan Barbosa.</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas.</h3>
 
--  Conhecimento em: Python, JS, HTML5, CSS, MySQL e Firebase
+-  Conhecimento em: Python, JS, HTML5, CSS, MySQL e Flutter
 -  Masterclass de: Des. Mobile, N8N e Python
 -  Email: **renanbarbosasilvaa@gmail.com**
 
