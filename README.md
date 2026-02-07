@@ -1,4 +1,6 @@
-# 💫About me: 
+# 💫About me:
+**[🇧🇷 Leia em Português](ReadMePortugues.md)**
+
 Hi, I'm Renan Barbosa! 👋
 
 Software Engineering | Python Developer (Django, Flask) | Automation & AI I am a developer passionate about solving complex problems through technology. With a solid background of over five years in operations management and international logistics, I decided to channel my strategic vision into software development, focusing on creating high-impact and scalable solutions.
