@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá, eu sou o Renan Barbosa! 👋<br>Engenharia de Software | Desenvolvedor Python (Django, Flask) | Automação & IA<br>Sou um desenvolvedor apaixonado por resolver problemas complexos através da tecnologia. Com um sólido histórico de mais de cinco anos em gestão de operações e logística internacional , decidi canalizar minha visão estratégica para o desenvolvimento de software, focando em criar soluções que gerem impacto real e escalável.<br><br>🚀 Sobre Mim<br>🎓 Atualmente cursando Bacharelado em Engenharia de Software na Unicsul (Jan/2026 - Dez/2029).<br><br>🏫 Técnico em Desenvolvimento de Sistemas pela ETEC Prof. Basilides de Godoy, com histórico de excelência acadêmica.<br><br>💼 +5 anos de experiência como Coordenador de Operações, liderando a modernização de processos de exportação e logística.<br><br>🌍 Fluente em Inglês (Full Professional) e com conhecimentos em Alemão.
 
 
