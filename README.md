@@ -1,5 +1,5 @@
 # 💫About me:
-**[🇧🇷 Leia em Português](ReadMePortugues.md)**
+**[Leia em Português](ReadMePortugues.md)**
 
 Hi, I'm Renan Barbosa! 👋
 
