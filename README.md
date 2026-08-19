@@ -86,35 +86,3 @@ class RenanBarbosa:
 
 </div>
 
----
-
-
-
-##  Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanbarbosaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00b4d8&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbarbosaaa&layout=compact&langs_count=8&theme=tokyonight&border_color=00b4d8&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=renanbarbosaaa&theme=tokyonight&border=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-###  Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanbarbosaa/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanbarbosasilvaa@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renanbarbosaaa)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1a3a6c,100:0a0f2c&height=120&section=footer" width="100%"/>
-
-</div>
