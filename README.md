@@ -20,7 +20,7 @@
 
 ---
 
-## 🩺 Sobre Mim
+##  Sobre Mim
 
 ```python
 class RenanBarbosa:
@@ -38,47 +38,47 @@ class RenanBarbosa:
         }
 ```
 
-- 🏥 **Atuando** em Health Tech na **Philips**, desenvolvendo soluções para aplicações clínicas
-- 🎓 **Cursando** Ciência da Computação na UNICSUL
-- 🤖 **Explorando** o potencial de LLMs e Agentes de IA em ambientes de saúde
-- 🔗 **Construindo** pipelines ETL, APIs robustas, agentes de IA e microserviços escaláveis
-- 📊 **Transformando** dados em decisões com Power BI, DAX e ETL Pipelines
-- 🎯 **Buscando** crescer como Data & AI Engineer com impacto real na saúde
+-  **Atuando** em Health Tech na **Philips**, desenvolvendo soluções para aplicações clínicas
+-  **Cursando** Ciência da Computação na UNICSUL
+-  **Explorando** o potencial de LLMs e Agentes de IA em ambientes de saúde
+-  **Construindo** pipelines ETL, APIs robustas, agentes de IA e microserviços escaláveis
+-  **Transformando** dados em decisões com Power BI, DAX e ETL Pipelines
+-  **Buscando** crescer como Data & AI Engineer com impacto real na saúde
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 💻 Linguagens
+###  Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Bibliotecas
+###  Frameworks & Bibliotecas
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📊 Dados & BI
+###  Dados & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![M Query](https://img.shields.io/badge/M%20Query-742774?style=for-the-badge&logo=powerquery&logoColor=white)
 
-### 🧠 IA & Engenharia
+###  IA & Engenharia
 ![Prompt Engineering](https://img.shields.io/badge/Engenharia%20de%20Prompt-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservi%C3%A7os-FF6B6B?style=for-the-badge&logo=docker&logoColor=white)
 ![APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Design System](https://img.shields.io/badge/Design%20System-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔧 Ferramentas
+###  Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -90,7 +90,7 @@ class RenanBarbosa:
 
 
 
-## 📈 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -105,40 +105,9 @@ class RenanBarbosa:
 
 ---
 
-## 🧩 Soft Skills que fazem a diferença
-
 <div align="center">
 
-| 💡 Habilidade | 📋 Como aplico |
-|---|---|
-| **Pensamento Analítico** | Decomponho problemas complexos em soluções elegantes |
-| **Comunicação Técnica** | Traduzo tecnologia em valor de negócio para stakeholders |
-| **Aprendizado Contínuo** | Evoluo constantemente em um setor que nunca para de mudar |
-| **Trabalho em Equipe** | Colaboro em times multidisciplinares de engenharia e produto |
-| **Adaptabilidade** | Me ajusto rápido a novas stacks e requisitos de projeto |
-| **Resolução de Problemas** | Foco em impacto, não apenas em código funcionando |
-| **Atenção a Detalhes** | Código limpo, documentado e que resiste ao tempo |
-| **Proatividade** | Antecipo problemas antes que virem bugs em produção |
-
-</div>
-
----
-
-## 💬 Frase que me guia
-
-<div align="center">
-
-> *"A saúde é o setor onde software deixa de ser produto e passa a ser propósito."*
->
-> — Renan Barbosa
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Vamos nos conectar?
+###  Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanbarbosaa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanbarbosasilvaa@gmail.com)
