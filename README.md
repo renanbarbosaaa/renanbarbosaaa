@@ -30,7 +30,6 @@ class RenanBarbosa:
         self.curso       = "Ciência da Computação — UNICSUL (Bolsista 100%)"
         self.empresa     = "Philips Healthcare · Estagiário em Aplicações"
         self.foco        = ["Health Tech", "Back-end", "AI & LLMs"]
-        self.missao      = "Escrever código que impacta vidas reais na saúde"
 
     def now(self):
         return {
