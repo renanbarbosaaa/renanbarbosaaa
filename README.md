@@ -27,26 +27,24 @@ class RenanBarbosa:
     def __init__(self):
         self.nome        = "Renan Barbosa"
         self.localizacao = "São Paulo, SP 🇧🇷"
-        self.curso       = "Engenharia de Software — UNICSUL"
+        self.curso       = "Ciência da Computação — UNICSUL (Bolsista 100%)"
         self.empresa     = "Philips Healthcare · Estagiário em Aplicações"
         self.foco        = ["Health Tech", "Back-end", "AI & LLMs"]
         self.missao      = "Escrever código que impacta vidas reais na saúde"
 
     def now(self):
         return {
-            "trabalhando_em" : "Aplicações clínicas com foco em integração e APIs",
-            "estudando"      : ["Arquitetura de Microserviços", "LangChain Avançado", "Cloud AWS"],
-            "buscando"       : "Oportunidades em Health Tech & AI Engineering",
-            "curiosidade"    : "Acredito que o melhor código é aquele que não precisa de explicação 🧹"
+            "trabalhando_em" : "Engenharia e analise de dados, aplicações com IA e automações",
+            "estudando"      : ["Arquitetura de Microserviços", "LangChain Avançado", "Cloud AWS", "AI Engineering"],
         }
 ```
 
 - 🏥 **Atuando** em Health Tech na **Philips**, desenvolvendo soluções para aplicações clínicas
-- 🎓 **Cursando** Engenharia de Software na UNICSUL
+- 🎓 **Cursando** Ciência da Computação na UNICSUL
 - 🤖 **Explorando** o potencial de LLMs e Agentes de IA em ambientes de saúde
-- 🔗 **Construindo** pipelines ETL, APIs robustas e microserviços escaláveis
+- 🔗 **Construindo** pipelines ETL, APIs robustas, agentes de IA e microserviços escaláveis
 - 📊 **Transformando** dados em decisões com Power BI, DAX e ETL Pipelines
-- 🎯 **Buscando** crescer como Engenheiro de Software com impacto real na saúde
+- 🎯 **Buscando** crescer como Data & AI Engineer com impacto real na saúde
 
 ---
 
@@ -91,29 +89,7 @@ class RenanBarbosa:
 
 ---
 
-## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/renanbarbosaaa/AgenteIA-Telegram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renanbarbosaaa&repo=AgenteIA-Telegram&theme=tokyonight&border_color=00b4d8&title_color=00b4d8&icon_color=00b4d8" />
-</a>
-<a href="https://github.com/renanbarbosaaa/Island-Noronha-Hotel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renanbarbosaaa&repo=Island-Noronha-Hotel&theme=tokyonight&border_color=00b4d8&title_color=00b4d8&icon_color=00b4d8" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/renanbarbosaaa/Anhanguera-Guessr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renanbarbosaaa&repo=Anhanguera-Guessr&theme=tokyonight&border_color=00b4d8&title_color=00b4d8&icon_color=00b4d8" />
-</a>
-<a href="https://github.com/renanbarbosaaa/Tech-Taste">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renanbarbosaaa&repo=Tech-Taste&theme=tokyonight&border_color=00b4d8&title_color=00b4d8&icon_color=00b4d8" />
-</a>
-
-</div>
-
----
 
 ## 📈 Estatísticas do GitHub
 
