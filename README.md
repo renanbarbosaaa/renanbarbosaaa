@@ -26,7 +26,7 @@
 class RenanBarbosa:
     def __init__(self):
         self.nome        = "Renan Barbosa"
-        self.localizacao = "São Paulo, SP 🇧🇷"
+        self.localizacao = "São Paulo, SP"
         self.curso       = "Ciência da Computação — UNICSUL (Bolsista 100%)"
         self.empresa     = "Philips Healthcare · Estagiário em Aplicações"
         self.foco        = ["Health Tech", "Back-end", "AI & LLMs"]
