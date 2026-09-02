@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,50:1a3a6c,100:00b4d8&height=200&section=header&text=Renan%20Barbosa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer,%20AI%20Agents%20and%20Automations%20%7C%20Health%20Tech%20%7C%20&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,50:1a3a6c,100:00b4d8&height=200&section=header&text=Renan%20Barbosa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Solutions,%20AI%20Agents%20and%20Automations%20%7C%20Health%20Tech%20%7C%20&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG com frase de impacto -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Construindo+tecnologia+que+salva+vidas+%F0%9F%A9%BA;+%40+Philips+Health+Tech;Python+%7C+FastAPI+%7C+AI+%7C+LangChain;Do+c%C3%B3digo+ao+impacto+real+na+sa%C3%BAde)](https://git.io/typing-svg)
