@@ -14,7 +14,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=renanbarbosaaa&color=00b4d8&style=for-the-badge&label=VISITAS+AO+PERFIL)
 
 </div>
 
